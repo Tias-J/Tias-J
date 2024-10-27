@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Tias-J
-- 👀 I’m interested.
-- 🌱 I’m currently learning physics and other.
+
